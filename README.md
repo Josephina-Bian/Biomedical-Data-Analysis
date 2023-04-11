@@ -21,6 +21,6 @@ Each patient is represented in the data set by six biomechanical attributes deri
 - Find the optimal parameter
 - Report the least test error rate
 ## Classification using KNN with Chebyshev Distance
-## Classification using KNN with Mahalanois Distance
+## Classification using KNN with Mahalanobis Distance
 ## Classification using KNN with weighted voting and various distance metrics
 - Compare the best test errors for using weighted voting with Euclidean, Manhattan, and Chebyshev distances
